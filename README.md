@@ -1,2 +1,4 @@
-# arbiter_verification
-UVM verification plan for arbiter DUT
+# Final project - SQLabs verification course
+## Varbiter_verification
+UVM verification plan for arbiter DUT.
+
